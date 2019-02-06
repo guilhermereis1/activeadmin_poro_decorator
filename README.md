@@ -65,15 +65,8 @@ end
 
 For more examples have a look to [sample app](https://github.com/kiote/aa_plus_poro)
 
-## Credits
-![](http://d3a5orex94acl6.cloudfront.net/assets/logo-sprites-a6de3b3521c14ee436ca3207d83cdf90.png)
+Guilherme Reis
 
-Activeadmin-poro-decorator is created with support of [Legelisten.no](http://www.legelisten.no/om-oss)
+* https://www.worldcode.com.br
 
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/activeadmin-poro-decorator/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
